@@ -92,7 +92,7 @@
 
 .pl-mb /* markup.bold */ {
   color: #ddd;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .pl-md /* markup.deleted, meta.diff.header.from-file */ {
